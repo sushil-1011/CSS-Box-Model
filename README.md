@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains practice files created to understand the CSS Box Model and related styling concepts in Full Stack Development (FSD).
+This repository contains practice files created to understand the CSS Box Model and related styling concepts in Full Stack Development.
 
 The project demonstrates how elements are structured and styled using:
 
@@ -114,4 +114,4 @@ No additional installation or dependencies are required.
 
 ## Author
 
-Created as part of Full Stack Development practice using HTML and CSS.
+Created as part of Full Stack Development general practice using HTML and CSS.
